@@ -1,4 +1,4 @@
-# Identificación de bacerias zoonóticas mediante análisis de secuencias 16S
+# Identificación de bacerias zoonóticas mediante 16S metabarcoding
 Este repositorio contiene un flujo de trabajo para el análisis de secuencias 16S rRNA con el fin de identificar bacterias zoonóticas, utilizando datos de referencia del estudio:
 Dueholm, M. S., Andersen, K. S., McIlroy, S. J., Kristensen, J. M., Yashiro, E., Karst, S. M., Albertsen, M., & Nielsen, P. H. (2020). Generation of Comprehensive Ecosystem-Specific Reference Databases with Species-Level Resolution by High-Throughput Full-Length 16S rRNA Gene Sequencing and Automated Taxonomy Assignment (AutoTax). mBio, 11(5), e01557-20. https://doi.org/10.1128/mbio.01557-20
 
